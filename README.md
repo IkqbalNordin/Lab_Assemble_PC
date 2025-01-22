@@ -24,7 +24,7 @@
 
 ###
 
-<img align="right" height="180" src="https://github.com/IkqbalNordin/PC-Assemble-Lab-/blob/main/pc-build-tools1.jpg?raw=true"  />
+<img align="right" height="180" src="https://github.com/IkqbalNordin/PC_Assemble_Lab/blob/main/pc-build-tools1.jpg?raw=true"  />
 
 ###
 
