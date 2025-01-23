@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="450" src="https://github.com/IkqbalNordin/PC_Assemble_Lab/blob/main/image.jpg?raw=true"  />
+<img align="right" height="550" src="https://github.com/IkqbalNordin/PC_Assemble_Lab/blob/main/image.jpg?raw=true"  />
 
 ###
 
